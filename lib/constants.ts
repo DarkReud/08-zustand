@@ -1,5 +1,4 @@
-// Після деплою на Vercel замініть на посилання живої сторінки (з "/" в кінці)
-export const SITE_URL = "https://notehub.com/";
+export const SITE_URL = "https://08-zustand-pi-blond.vercel.app/";
 
 export const OG_IMAGE = {
   url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
